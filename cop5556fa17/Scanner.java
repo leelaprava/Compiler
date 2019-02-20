@@ -45,7 +45,7 @@ public class Scanner {
 	 * chars array in the associated Scanner.
 	 *
 	 *
-	 * @author Beverly Sanders
+	 * 
 	 *
 	 */
 	public class Token {
